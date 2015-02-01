@@ -1,1 +1,7 @@
-# a_scala_book
+GitBook Example
+=======
+
+Welcome in your GitBook!
+
+a scala book in Chinese.
+
